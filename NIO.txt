@@ -1,0 +1,10 @@
+NIO总结：
+1.Java的socket编程
+2.5种I/o模型
+3.Netty框架的特性，基本概念
+4.Netty的多线程模型
+5.Netty的启动流程和处理流程
+6.Netty的运行原理
+7.netty的网络优化，粘包和拆包，Nagle算法，TCp_NODELAY,连接优化
+8.Netty优化，参数，缓冲区，内存与Bytebuffer等优化
+9.Netty在API网关中的应用

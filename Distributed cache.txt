@@ -1,0 +1,11 @@
+分布式缓存总结：
+1.缓存基本特性，本地缓存，远程缓存，缓存策略，
+2.缓存常见的问题， 缓存穿透，缓存击穿，缓存雪崩
+3.Redis的基本数据结构和高级数据结构
+4.Redis的使用场景
+5.Redis的java客户端， Jedis，lettuce，Redission
+6.Redis与Spring整合
+7.Redis的高级功能， 事务，lua脚本，pipeline
+8.Redis的数据备份与恢复 RDB与AOF
+9.Redis集群和高可用
+10.Redis框架

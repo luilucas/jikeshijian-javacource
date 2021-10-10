@@ -1,0 +1,10 @@
+分布式消息队列总结：
+1.系统间的通信方式
+2.消息队列的演进，作用
+3.消息处理模式，消息处理保障
+4.常见的消息中间件，ActiveMQ，RabbitMQ，kafka，RocketMQ,Apache Pulsar
+5.Kafka基本概念， Broker，topic，partition，producer，consumer， cusumer group
+6.Kafka的基本原理
+7.使用Kafka发送和接收消息
+8.kafak的高级特性
+9.Spring与消息中间件的集成

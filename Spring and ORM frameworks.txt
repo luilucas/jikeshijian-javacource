@@ -1,0 +1,12 @@
+Spring相关框架总结：
+1.Spring框架的技术发展
+2.Spring框架的基本模块
+3.Spring AOP技术
+4.Spring Bean核心技术，Spring bean的生命周期
+5.Spring xml配置原理，Spring Messaging技术
+6.springboot， 自动化配置技术， starter技术
+7.Jdbc与数据库连接池
+8.Mybatis与Hibernate等ORM框架
+9.Spring/Springboot与ORM框架集成
+10.JDk等其他框架， lamda， stream， guava等
+11.设计原则，设计模式，单元测试等
